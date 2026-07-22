@@ -1,167 +1,108 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=300&section=header&text=ACCESS%20GRANTED&fontColor=00FF00&fontSize=50&animation=twinkling&desc=Leonard%20F.%20Abenoja%20|%20Software%20Developer&descColor=00FF00"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=root@Lnrdbnj:~$+whoami;Software+Developer;Ethical+Hacking+Learner;Cybersecurity+Enthusiast;Building+The+Future"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Leonard%20F.%20Abenoja&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descColor=cbd5e1"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Lnrdbnj&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer;Ethical+Hacking+Learner;Cybersecurity+Enthusiast;Building+Secure+Software" alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=Lnrdbnj&label=Profile+Views&color=38BDF8&style=flat-square"/>
+&nbsp;
+<a href="https://github.com/Lnrdbnj"><img src="https://img.shields.io/github/followers/Lnrdbnj?label=Followers&style=flat-square&color=38BDF8"/></a>
 
-# 💀 SYSTEM INFORMATION
+</div>
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br/>
 
-USER      : Leonard F. Abenoja
-USERNAME  : Lnrdbnj
-ROLE      : Software Developer
-LOCATION  : Philippines
-STATUS    : ONLINE 🟢
-MISSION   : Build Secure Software
+## About Me
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+- 🎓 Software Developer based in the **Philippines**
+- ☁️ Currently learning **Cloud Computing**
+- 🤖 Exploring **AI & Automation**
+- 🌱 Open source enthusiast who values clean, maintainable code
+- 🔐 Building an interest in **ethical hacking** and application security
+- 💬 Ask me about **web development**, **Java**, or **secure coding practices**
 
----
+<br/>
 
-# 🛰 TERMINAL
+## Tech Stack
 
-```bash
-root@Lnrdbnj:~$ cat about.txt
+<div align="center">
 
-✔ Passionate about Software Development
-✔ Learning Cloud Computing
-✔ Interested in AI & Automation
-✔ Open Source Enthusiast
-✔ Loves Clean Code
-```
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
----
+**Web & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-# ⚔ TECH ARSENAL
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<p align="center">
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,mysql,git,github,docker,linux,vscode"/>
+<br/>
 
-</p>
+## GitHub Stats
 
----
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lnrdbnj&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lnrdbnj&layout=compact&hide_border=true&theme=tokyonight"/>
+</div>
 
-# 📊 SYSTEM STATUS
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lnrdbnj&hide_border=true&theme=tokyonight"/>
+</div>
 
-<p align="center">
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lnrdbnj&theme=tokyo-night&hide_border=true"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lnrdbnj&theme=chartreuse-dark&show_icons=true&hide_border=true"/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Lnrdbnj&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lnrdbnj&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<br/>
 
-</p>
+## Featured Projects
 
----
+| Project | Description |
+|---|---|
+| 📱 **Orange Rotary Phone** | A creative hardware/software project reimagining a classic rotary phone |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing projects and skills |
+| 💻 **Java Console Applications** | A collection of Java-based console programs |
+| 🤖 **AI Projects** | Experiments and applications exploring AI & automation |
 
-# 🔥 GITHUB STREAK
+> Check out the [pinned repositories](https://github.com/Lnrdbnj?tab=repositories) for the latest work.
 
-<p align="center">
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Lnrdbnj&theme=chartreuse-dark&hide_border=true"/>
+## Let's Connect
 
-</p>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lnrdbnj&theme=react-dark"/>
-
-</p>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lnrdbnj&theme=matrix&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Lnrdbnj/Lnrdbnj/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-```text
-📱 Orange Rotary Phone
-🌐 Portfolio Website
-💻 Java Console Applications
-🤖 AI Projects
-```
-
----
-
-# 📡 CONNECT
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Lnrdbnj">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:lnrdbnja@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br/>
 
-# ⚡ SYSTEM LOG
-
-```bash
-root@Lnrdbnj:~$ sudo make world better
-
-[██████████████████████] 100%
-
-✔ Learning...
-✔ Coding...
-✔ Building...
-✔ Deploying...
-
-Mission Complete.
-```
-
----
-
-<p align="center">
-
-```
-01001000 01100001 01100011 01101011
-01000101 01110010
-
-ACCESS GRANTED
-```
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=150&section=footer"/>
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
