@@ -1,318 +1,76 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,100:23272f&text=Leonard%20F.%20Abenoja&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Software%20Developer%20•%20Cybersecurity%20Enthusiast%20•%20Cloud%20Learner&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,100:000000&text=Leonard%20F.%20Abenoja&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=Software%20Developer%20â€¢%20Cybersecurity%20Enthusiast%20â€¢%20Cloud%20Learner&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&duration=3500&center=true&vCenter=true&width=700&color=FFFFFF&lines=Software+Developer;Cybersecurity+Enthusiast;Ethical+Hacking+Learner;Cloud+Computing;AI+Automation;Building+Secure+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&color=FFFFFF&lines=Software+Developer;Cybersecurity+Enthusiast;Cloud+Computing;AI+Automation;Building+Secure+Software"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Lnrdbnj&style=for-the-badge&color=grey" />
-
-<img src="https://img.shields.io/github/followers/Lnrdbnj?style=for-the-badge&color=black"/>
-
-<img src="https://img.shields.io/github/stars/Lnrdbnj?style=for-the-badge&color=black"/>
+<img src="https://komarev.com/ghpvc/?username=Lnrdbnj&style=for-the-badge&color=000000"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# ðŸ‘¨â€ðŸ’» About Me
 
-```yaml
-Name: Leonard F. Abenoja
-
-Location: Philippines
-
-Role: Software Developer
-
-Currently Learning:
-  - Cloud Computing
-  - Ethical Hacking
-  - AI Automation
-
-Interests:
-  - Web Development
-  - Application Security
-  - Secure Coding
-  - Open Source
-```
-
----
-
-# 🚀 Tech Stack
+- ðŸ’» Software Developer from the Philippines
+- ðŸ” Passionate about Cybersecurity & Secure Coding
+- â˜ï¸ Learning Cloud Computing
+- ðŸ¤– Exploring AI & Automation
+- ðŸŒ± Open Source Enthusiast
 
 <div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c&perline=5"/>
-
-<br><br>
-
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5"/>
-
-<br><br>
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&perline=4"/>
-
-<br><br>
-
-## Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman&perline=7"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:000000,100:111111&text=Tech%20Stack&fontColor=FFFFFF"/>
 </div>
 
----
-
-# 📊 GitHub Statistics
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,nodejs,express,mysql,docker,linux,git,github,vscode&theme=dark"/>
+</p>
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lnrdbnj&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lnrdbnj&layout=compact&hide_border=true&theme=transparent"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:000000,100:111111&text=GitHub%20Stats&fontColor=FFFFFF"/>
 </div>
 
-<br>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lnrdbnj&show_icons=true&theme=dark&bg_color=000000&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lnrdbnj&layout=compact&theme=dark&bg_color=000000&hide_border=true"/>
+</p>
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lnrdbnj&theme=dark&background=000000&hide_border=true"/>
+</p>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Lnrdbnj&theme=transparent&hide_border=true"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Lnrdbnj&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
 
-</div>
+## ðŸš€ Featured Projects
 
----
+| Project | Description |
+|---|---|
+| StaycationHavenPH | Booking platform |
+| Jishin Alert | Disaster preparedness app |
+| Orange Rotary Phone | Hardware/software project |
+| Portfolio | Personal website |
+| AI Projects | AI experiments |
 
-# 🏆 GitHub Achievements
+## ðŸ“ˆ Activity
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lnrdbnj&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lnrdbnj&theme=darkhub&row=1&column=6&no-frame=true"/>
+## ðŸ Contribution Snake
 
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Lnrdbnj/Lnrdbnj/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
----
+## ðŸ“« Connect
 
-# 🚀 Featured Projects
+<p align="center">
+<a href="https://github.com/Lnrdbnj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="mailto:lnrdbnja@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+</p>
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🏖️ StaycationHavenPH
-
-Modern booking platform for staycation properties in the Philippines.
-
-**Stack**
-
-- Next.js
-- Node.js
-- Express
-- MySQL
-
-</td>
-
-<td width="50%">
-
-### 🌋 Jishin Alert
-
-Educational mobile application focused on earthquake preparedness and disaster awareness.
-
-**Stack**
-
-- Java
-- Android
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### ☎️ Orange Rotary Phone
-
-Hardware and software project inspired by a classic rotary telephone.
-
-</td>
-
-<td>
-
-### 🌐 Portfolio Website
-
-Responsive personal portfolio showcasing projects, experience, and technical skills.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 💻 Java Console Applications
-
-Collection of object-oriented Java projects demonstrating algorithms and programming fundamentals.
-
-</td>
-
-<td>
-
-### 🤖 AI Projects
-
-Automation experiments, AI tools, and machine learning applications.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌱 Currently Working On
-
-- 🔐 Learning Ethical Hacking
-- ☁️ Cloud Computing
-- 🤖 AI Automation
-- 🚀 Full Stack Development
-- 📚 Open Source Contributions
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lnrdbnj&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| Technology | Progress |
-|------------|----------|
-| Cloud Computing | ███████░░ |
-| Docker | ████████░ |
-| Cybersecurity | ██████░░░ |
-| Ethical Hacking | █████░░░░ |
-| AI Automation | ███████░░ |
-
-</div>
-
----
-
-# 💡 Quote
-
-> **"Build software that is not only functional, but secure, scalable, and maintainable."**
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Lnrdbnj">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="mailto:lnrdbnja@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lnrdbnj/Lnrdbnj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lnrdbnj/Lnrdbnj/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Lnrdbnj/Lnrdbnj/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-# 📊 Profile Summary
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lnrdbnj&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lnrdbnj&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lnrdbnj&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lnrdbnj&theme=github_dark&utcOffset=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lnrdbnj&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lnrdbnj&theme=github_dark"/>
-
-</div>
-
----
-
-# 🎯 Goals for 2026
-
-- ☁️ Earn cloud certifications
-- 🔐 Strengthen cybersecurity and ethical hacking skills
-- 🤖 Build practical AI-powered applications
-- 🌍 Contribute consistently to open-source projects
-- 🚀 Develop scalable, secure full-stack systems
-
----
-
-# ⚡ Fun Facts
-
-- 💻 I enjoy solving real-world programming problems.
-- 🔐 I'm passionate about secure software development.
-- 🌱 I believe continuous learning is the key to growth.
-- 🚀 I enjoy building projects that make a real impact.
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you enjoy my projects, consider leaving a ⭐ on a repository or following me.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:23272f,100:000000"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:000000,100:000000"/>
