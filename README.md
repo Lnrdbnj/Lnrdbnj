@@ -1,22 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=220&section=header&text=Leonard%20F.%20Abenoja&fontColor=00FF9C&fontSize=42&fontAlignY=40&desc=Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=220&section=header&text=Leonard%20F.%20Abenoja&fontColor=00FF9C&fontSize=42&fontAlignY=40&desc=Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descColor=8b949e" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Software+Developer;Ethical+Hacking+Learner;Cybersecurity+Enthusiast;Building+Secure+Software&background=00000000" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=Lnrdbnj&label=Profile+Views&color=0d1117&style=for-the-badge"/>
-&nbsp;
-<a href="https://github.com/Lnrdbnj"><img src="https://img.shields.io/github/followers/Lnrdbnj?label=Followers&style=for-the-badge&color=0d1117"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=440&lines=Software+Developer;Ethical+Hacking+Learner;Cybersecurity+Enthusiast;Building+Secure+Software&background=00000000" alt="Typing SVG"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=70&section=header&text=About%20Me&fontColor=00FF9C&fontSize=28&fontAlign=50&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=70&section=header&text=About%20Me&fontColor=00FF9C&fontSize=28&fontAlign=50&fontAlignY=50" width="100%"/>
 </div>
-
-## About Me
 
 - 🎓 Software Developer based in the **Philippines**
 - ☁️ Currently learning **Cloud Computing**
@@ -28,10 +22,8 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=70&section=header&text=Tech%20Stack&fontColor=00FF9C&fontSize=28&fontAlign=50&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=70&section=header&text=Tech%20Stack&fontColor=00FF9C&fontSize=28&fontAlign=50&fontAlignY=50" width="100%"/>
 </div>
-
-## Tech Stack
 
 <div align="center">
 
@@ -64,7 +56,9 @@
 
 <br/>
 
-## GitHub Stats
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=70&section=header&text=GitHub%20Stats&fontColor=00FF9C&fontSize=28&fontAlign=50&fontAlignY=50" width="100%"/>
+</div>
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lnrdbnj&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&count_private=true"/>
@@ -72,20 +66,22 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Lnrdbnj&hide_border=true&theme=dark&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lnrdbnj&hide_border=true&theme=dark&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lnrdbnj&theme=github-compact&hide_border=true&bg_color=000000&color=00FF9C&line=00FF9C&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lnrdbnj&theme=github-compact&hide_border=true&bg_color=000000&color=00FF9C&line=00FF9C&point=ffffff" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lnrdbnj&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lnrdbnj&theme=darkhub&no-frame=true&row=1&column=6" width="100%"/>
 </div>
 
 <br/>
 
-## Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=70&section=header&text=Featured%20Projects&fontColor=00FF9C&fontSize=28&fontAlign=50&fontAlignY=50" width="100%"/>
+</div>
 
 | Project | Description |
 |---|---|
@@ -96,11 +92,11 @@
 | 💻 **Java Console Applications** | A collection of Java-based console programs |
 | 🤖 **AI Projects** | Experiments and applications exploring AI & automation |
 
-> Check out the [pinned repositories](https://github.com/Lnrdbnj?tab=repositories) for the latest work.
-
 <br/>
 
-## Let's Connect
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=70&section=header&text=Let's%20Connect&fontColor=00FF9C&fontSize=28&fontAlign=50&fontAlignY=50" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -113,6 +109,4 @@
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=120&section=footer" width="100%"/>
