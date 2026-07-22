@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Leonard%20F.%20Abenoja&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descColor=cbd5e1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=220&section=header&text=Leonard%20F.%20Abenoja&fontColor=00FF9C&fontSize=42&fontAlignY=40&desc=Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descColor=8b949e"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer;Ethical+Hacking+Learner;Cybersecurity+Enthusiast;Building+Secure+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Software+Developer;Ethical+Hacking+Learner;Cybersecurity+Enthusiast;Building+Secure+Software&background=00000000" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Lnrdbnj&label=Profile+Views&color=38BDF8&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Lnrdbnj&label=Profile+Views&color=0d1117&style=for-the-badge"/>
 &nbsp;
-<a href="https://github.com/Lnrdbnj"><img src="https://img.shields.io/github/followers/Lnrdbnj?label=Followers&style=flat-square&color=38BDF8"/></a>
+<a href="https://github.com/Lnrdbnj"><img src="https://img.shields.io/github/followers/Lnrdbnj?label=Followers&style=for-the-badge&color=0d1117"/></a>
 
 </div>
 
@@ -59,20 +59,20 @@
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lnrdbnj&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lnrdbnj&layout=compact&hide_border=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lnrdbnj&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lnrdbnj&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=00FF9C&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Lnrdbnj&hide_border=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lnrdbnj&hide_border=true&theme=dark&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lnrdbnj&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lnrdbnj&theme=github-compact&hide_border=true&bg_color=000000&color=00FF9C&line=00FF9C&point=ffffff"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lnrdbnj&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lnrdbnj&theme=darkhub&no-frame=true&row=1&column=6"/>
 </div>
 
 <br/>
@@ -81,6 +81,8 @@
 
 | Project | Description |
 |---|---|
+| 🏖️ **[Staycationhavenph.com](https://staycationhavenph.com)** | Developer of a booking/rental website for staycation properties in the Philippines |
+| 🌋 **Jishin Alert** | Mobile game focused on earthquake preparedness and disaster awareness |
 | 📱 **Orange Rotary Phone** | A creative hardware/software project reimagining a classic rotary phone |
 | 🌐 **Portfolio Website** | Personal portfolio showcasing projects and skills |
 | 💻 **Java Console Applications** | A collection of Java-based console programs |
@@ -105,4 +107,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=120&section=footer"/>
