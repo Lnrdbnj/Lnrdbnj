@@ -12,6 +12,10 @@
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=70&section=header&text=About%20Me&fontColor=00FF9C&fontSize=28&fontAlign=50&fontAlignY=50"/>
+</div>
+
 ## About Me
 
 - 🎓 Software Developer based in the **Philippines**
@@ -22,6 +26,10 @@
 - 💬 Ask me about **web development**, **Java**, or **secure coding practices**
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=70&section=header&text=Tech%20Stack&fontColor=00FF9C&fontSize=28&fontAlign=50&fontAlignY=50"/>
+</div>
 
 ## Tech Stack
 
