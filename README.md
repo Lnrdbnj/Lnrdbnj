@@ -47,6 +47,65 @@ Open Source Enthusiast
 ![Figma](https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-000000.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
+## 💼 Internship Experience
+
+**Full Stack Developer Intern** — Alpha Centauri Corporation
+`2025 – 2026`
+
+Developed and maintained **StaycationHavenPH.com** by building frontend and backend features and supporting testing, debugging, deployment, and performance optimization.
+
+## 🎓 Academic Projects
+
+**Jishin Alert: Earthquake Preparedness & Awareness Mobile Game** — Capstone Project
+`2025 – 2026`
+
+![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-000000.svg?style=for-the-badge&logo=android&logoColor=white)
+
+Developed *Jishin Alert*, an earthquake preparedness mobile game using Unity and C# with interactive gameplay and educational features.
+
+## 📜 Certifications & Training
+
+<table>
+<tr>
+<th align="left">Issuer</th>
+<th align="left">Certification</th>
+<th align="left">Date</th>
+</tr>
+<tr>
+<td rowspan="2">Cisco Networking Academy</td>
+<td>Operating Systems Basics — Windows architecture, Linux shell, network configuration, and mobile operating systems</td>
+<td>July 15, 2025</td>
+</tr>
+<tr>
+<td>Digital Awareness — Digital literacy, responsible online practices, and emerging technologies</td>
+<td>July 12, 2025</td>
+</tr>
+<tr>
+<td rowspan="4">IBM SkillsBuild</td>
+<td>Getting Started with Data<br><sub>Credential ID: 8986b537b-92da-4394-88bc-514ffc3bc69d</sub></td>
+<td>July 7, 2025</td>
+</tr>
+<tr>
+<td>Explore Emerging Tech</td>
+<td>July 9, 2025</td>
+</tr>
+<tr>
+<td>IBM Cybersecurity<br><sub>Certificate ID: ILB-EKVEQKNEZN7JJ1KX</sub></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Artificial Intelligence in Practice<br><sub>Certificate ID: ILB-ZJYLMXWZNXMEZWEGN</sub></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Ethel Programming Computer Programming Services</td>
+<td>Certificate of Participation — Hands-on Encryption: Programming Secure Data with Python</td>
+<td>—</td>
+</tr>
+</table>
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Lnrdbnj&theme=highcontrast&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=false&count_private=false)
