@@ -193,7 +193,7 @@ Built an interactive earthquake preparedness game in Unity/C#, combining gamepla
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lnrdbnj&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lnrdbnj&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-trophies.vercel.app/?username=Lnrdbnj&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 </div>
 
