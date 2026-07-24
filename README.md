@@ -169,6 +169,20 @@ Built an interactive earthquake preparedness game in Unity/C#, combining gamepla
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:000000,100:1a1a1a&animation=fadeIn"/>
 
+## 🧊 3D Contribution Skyline
+
+<!--
+  Rotating 3D isometric graph of your commit history.
+  Requires the "profile-3d-contrib" GitHub Action to generate these files in your repo.
+  Add .github/workflows/profile-3d-contrib.yml (see note below) to make this live.
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Lnrdbnj/Lnrdbnj/output/github-contribution-grid-snake-dark.svg" alt="3d contribution graph" width="80%" />
+<img src="https://raw.githubusercontent.com/Lnrdbnj/Lnrdbnj/master/profile-3d-contrib/profile-night-rainbow.svg" width="80%" alt="3d contribution animation" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:000000,100:1a1a1a&animation=fadeIn"/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
