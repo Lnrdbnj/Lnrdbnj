@@ -46,6 +46,7 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 <br>
 🤖&nbsp; Experimenting with **AI-assisted development**
 <br>
+<br>
 📫&nbsp; Reach me at **lnrdabenoja@gmail.com**
 
 </div>
