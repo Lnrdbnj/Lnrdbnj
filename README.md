@@ -12,13 +12,11 @@
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:000000,100:1a1a1a&animation=fadeIn"/>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="100%" style="background-color:#0d1117; border-radius:12px; padding:24px;">
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
+<div align="center">
 
 ```yaml
 Name: Leonard F. Abenoja
@@ -34,9 +32,7 @@ Currently Building: A mobile app using React Native
 fun_fact: "I debug with console.log and I'm not ashamed"
 ```
 
-<br>
-
-### 📌 Quick Facts
+**📌 Quick Facts**
 
 🎓&nbsp; Currently finishing my **Capstone Project**
 <br>
@@ -52,9 +48,9 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 <br>
 📫&nbsp; Reach me at **lnrdabenoja@gmail.com**
 
-</td>
-</tr>
-</table>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:000000,100:1a1a1a&animation=fadeIn"/>
 
 <div align="center">
 
