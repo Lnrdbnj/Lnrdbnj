@@ -30,9 +30,9 @@ Focus: Sayo
   - Open Source Contribution
   - UI/UX Design
 Developer of: Jishin Alert Mobile Games
-Currently Building: 
-A mobile app using React Native
-
+Currently Building: A mobile app using React Native
+fun_fact: "I debug with console.log and I'm not ashamed"
+```
 
 </td>
 <td valign="top" width="42%">
@@ -40,7 +40,7 @@ A mobile app using React Native
 ### 📌 Quick Facts
 
 - 🎓 Currently finishing my **Capstone Project**
-- 💼 Full Stack Developer @ Alpha Centauri Corp
+- 💼 Full Stack Developer Intern @ Alpha Centauri Corp
 - 📱 Currently developing a mobile app using **React Native**
 - 🔐 Diving deeper into **ethical hacking**
 - ☁️ Learning **cloud architecture** fundamentals
