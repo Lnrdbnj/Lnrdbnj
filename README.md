@@ -8,7 +8,6 @@
 
 <a href="https://komarev.com/ghpvc/?username=Lnrdbnj"><img src="https://komarev.com/ghpvc/?username=Lnrdbnj&style=for-the-badge&color=000000&labelColor=000000" /></a>
 
-<a href="https://github.com/Lnrdbnj?tab=repositories"><img src="https://img.shields.io/github/stars/Lnrdbnj?style=for-the-badge&logo=github&color=000000&labelColor=000000&logoColor=white" /></a>
 
 
 </div>
