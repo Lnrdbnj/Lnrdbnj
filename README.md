@@ -24,8 +24,8 @@
 **📌 Quick Facts**
 
 -  Full Stack Developer @ **Alpha Centauri**
--  Currently building a mobile app with **React Native**
--  Diving deeper into **ethical hacking**
+-  Currently building a web/mobile app
+-  Diving deeper into **AI**
 -  Learning **cloud architecture** fundamentals
 -  Experimenting with **AI-assisted development**
 
