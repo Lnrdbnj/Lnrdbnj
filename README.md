@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=000000&text=Leonard%20F.%20Abenoja&fontColor=FFFFFF&fontSize=44&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20•%20Cybersecurity%20Enthusiast%20•%20Cloud%20Learner&descAlignY=58&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=000000&text=Leonard%20F.%20Abenoja&fontColor=FFFFFF&fontSize=44&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20•%20Cloud%20Learner&descAlignY=58&descColor=FFFFFF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=000000&background=A78BFA00&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Ethical+Hacking+Learner;Cloud+%26+DevOps+Explorer;AI+%26+Automation+Builder;Turning+Coffee+into+Code+%E2%98%95" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=000000&background=A78BFA00&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Cloud+%26+DevOps+Explorer;Turning+Coffee+into+Code+%E2%98%95" />
 
 <br>
 
