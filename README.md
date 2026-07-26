@@ -21,15 +21,13 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Leonard F. Abenoja
-location: Philippines
-role: Software Developer
-focus:
-  - Cybersecurity & Secure Coding
+Name: Leonard F. Abenoja
+Location: Quezon City, Philippines
+Role: Software Developer
+Focus: Sayo 
   - Cloud Computing
-  - AI & Automation
   - Open Source Contribution
-currently_building: Jishin Alert (Capstone Project)
+Developer of: Jishin Alert Mobile Games
 fun_fact: "I debug with console.log and I'm not ashamed"
 ```
 
