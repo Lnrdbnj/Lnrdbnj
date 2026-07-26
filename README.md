@@ -24,10 +24,13 @@
 Name: Leonard F. Abenoja
 Location: Quezon City, Philippines
 Role: Software Developer
+Background: Add your background here (e.g. degree, school, years of experience)
 Focus: Sayo 
   - Cloud Computing
   - Open Source Contribution
+  - UI/UX Design
 Developer of: Jishin Alert Mobile Games
+Currently Building: A mobile app using React Native
 fun_fact: "I debug with console.log and I'm not ashamed"
 ```
 
@@ -38,6 +41,7 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 - 🎓 Currently finishing my **Capstone Project**
 - 💼 Full Stack Developer Intern @ Alpha Centauri Corp
+- 📱 Currently developing a mobile app using **React Native**
 - 🔐 Diving deeper into **ethical hacking**
 - ☁️ Learning **cloud architecture** fundamentals
 - 🤖 Experimenting with **AI-assisted development**
@@ -69,6 +73,7 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 **Languages & Frameworks**
 
 ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-000000.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -80,13 +85,12 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 **Platforms, Data & Tools**
 
 ![Firebase](https://img.shields.io/badge/firebase-000000.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-000000.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-000000.svg?style=for-the-badge&logo=android&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-000000.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-000000.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
@@ -218,7 +222,8 @@ Built an interactive earthquake preparedness game in Unity/C#, combining gamepla
 
 <sub>Thanks for stopping by — feel free to explore my repos or drop a message!</sub>
 
-<!-- Proudly enhanced with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 
+Proudly enhanced with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
 
