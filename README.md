@@ -34,9 +34,9 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 **📌 Quick Facts**
 
-
+🎓&nbsp; Currently finishing my **Capstone Project**
 <br>
-💼&nbsp; Full Stack Developer  @ Alpha Centauri Corp
+💼&nbsp; Full Stack Developer Intern @ Alpha Centauri Corp
 <br>
 📱&nbsp; Currently developing a mobile app using **React Native**
 <br>
@@ -45,7 +45,6 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 ☁️&nbsp; Learning **cloud architecture** fundamentals
 <br>
 🤖&nbsp; Experimenting with **AI-assisted development**
-<br>
 <br>
 📫&nbsp; Reach me at **lnrdabenoja@gmail.com**
 
