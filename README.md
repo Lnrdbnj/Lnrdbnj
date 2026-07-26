@@ -23,12 +23,13 @@
 
 **📌 Quick Facts**
 
-- 🧑‍💻 Full Stack Developer @ **Alpha Centauri**
-- 📱 Currently building a mobile app with **React Native**
-- 🔐 Diving deeper into **ethical hacking**
-- ☁️ Learning **cloud architecture** fundamentals
-- 🤖 Experimenting with **AI-assisted development**
-- 📬 Reach me at **lnrdabenoja@gmail.com**
+-  Full Stack Developer @ **Alpha Centauri**
+-  Currently building a mobile app with **React Native**
+-  Diving deeper into **ethical hacking**
+-  Learning **cloud architecture** fundamentals
+-  Experimenting with **AI-assisted development**
+
+-  Reach me at **lnrdabenoja@gmail.com**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=000000&animation=fadeIn"/>
 
