@@ -16,7 +16,7 @@
 
 <table align="center" width="100%">
 <tr>
-<td valign="top" width="58%" align="left" style="background-color:#0d1117; border-radius:10px; padding:20px;">
+<td align="center" width="100%" style="background-color:#0d1117; border-radius:12px; padding:24px;">
 
 ### 👨‍💻 About Me
 
@@ -34,18 +34,23 @@ Currently Building: A mobile app using React Native
 fun_fact: "I debug with console.log and I'm not ashamed"
 ```
 
-</td>
-<td valign="top" width="42%" align="left" style="background-color:#0d1117; border-radius:10px; padding:20px;">
+<br>
 
 ### 📌 Quick Facts
 
-- 🎓 Currently finishing my **Capstone Project**
-- 💼 Full Stack Developer Intern @ Alpha Centauri Corp
-- 📱 Currently developing a mobile app using **React Native**
-- 🔐 Diving deeper into **ethical hacking**
-- ☁️ Learning **cloud architecture** fundamentals
-- 🤖 Experimenting with **AI-assisted development**
-- 📫 Reach me at **lnrdabenoja@gmail.com**
+🎓&nbsp; Currently finishing my **Capstone Project**
+<br>
+💼&nbsp; Full Stack Developer Intern @ Alpha Centauri Corp
+<br>
+📱&nbsp; Currently developing a mobile app using **React Native**
+<br>
+🔐&nbsp; Diving deeper into **ethical hacking**
+<br>
+☁️&nbsp; Learning **cloud architecture** fundamentals
+<br>
+🤖&nbsp; Experimenting with **AI-assisted development**
+<br>
+📫&nbsp; Reach me at **lnrdabenoja@gmail.com**
 
 </td>
 </tr>
