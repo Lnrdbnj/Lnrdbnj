@@ -22,14 +22,11 @@
 Name: Leonard F. Abenoja
 Location: Quezon City, Philippines
 Role: Software Developer
-Background: Add your background here (e.g. degree, school, years of experience)
-Focus: Sayo 
-  - Cloud Computing
-  - Open Source Contribution
-  - UI/UX Design
+Focus: Sakanya
 Developer of: Jishin Alert Mobile Games
-Currently Building: A mobile app using React Native
-fun_fact: "I debug with console.log and I'm not ashamed"
+Currently Building:
+A Web/mobile app
+
 ```
 
 **📌 Quick Facts**
