@@ -21,22 +21,6 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-```yaml
-name: "Leonard F. Abenoja"
-location: "Quezon City, Philippines"
-role: "Software Developer"
-current_focus: "React Native mobile app"   # ⚠️ confirm/replace
-studying: ["Ethical Hacking", "Cloud Architecture", "AI-Assisted Dev"]
-built: ["Jishin Alert — earthquake preparedness mobile game"]
-fun_fact: "Turns coffee into code ☕"
-```
-
-</td>
-<td width="45%" valign="top">
 
 **📌 Quick Facts**
 
