@@ -30,8 +30,9 @@ Focus: Sayo
   - Open Source Contribution
   - UI/UX Design
 Developer of: Jishin Alert Mobile Games
-Currently Building: A mobile app using React Native
-fun_fact: "I debug with console.log and I'm not ashamed"
+Currently Building: 
+A mobile app using React Native
+
 ```
 
 </td>
