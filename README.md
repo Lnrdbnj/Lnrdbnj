@@ -35,17 +35,18 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 **📌 Quick Facts**
 
 
-Full Stack Developer Intern @ Alpha Centauri
+Full Stack Developer @ Alpha Centauri
 <br>
 Currently developing a mobile app using **React Native**
 <br>
-🔐&nbsp; Diving deeper into **ethical hacking**
+Diving deeper into **ethical hacking**
 <br>
-☁️&nbsp; Learning **cloud architecture** fundamentals
+Learning **cloud architecture** fundamentals
 <br>
-🤖&nbsp; Experimenting with **AI-assisted development**
+Experimenting with **AI-assisted development**
 <br>
-📫&nbsp; Reach me at **lnrdabenoja@gmail.com**
+<br>
+Reach me at **lnrdabenoja@gmail.com**
 
 </div>
 
