@@ -35,9 +35,9 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 **📌 Quick Facts**
 
 
-Full Stack Developer Intern @ Alpha Centauri Corp
+Full Stack Developer Intern @ Alpha Centauri
 <br>
-📱&nbsp; Currently developing a mobile app using **React Native**
+Currently developing a mobile app using **React Native**
 <br>
 🔐&nbsp; Diving deeper into **ethical hacking**
 <br>
