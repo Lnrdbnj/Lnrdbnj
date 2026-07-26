@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:1a1a1a,100:000000&text=Leonard%20F.%20Abenoja&fontColor=FFFFFF&fontSize=44&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20•%20Cybersecurity%20Enthusiast%20•%20Cloud%20Learner&descAlignY=58&descColor=E5E5E5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:1a1a1a,100:000000&text=Leonard%20F.%20Abenoja&fontColor=FFFFFF&fontSize=44&fontAlignY=35&animation=&desc=Software%20Developer%20•%20Cybersecurity%20Enthusiast%20•%20Cloud%20Learner&descAlignY=58&descColor=E5E5E5"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Ethical+Hacking+Learner;Cloud+%26+DevOps+Explorer;AI+%26+Automation+Builder;Turning+Coffee+into+Code+%E2%98%95" />
 
