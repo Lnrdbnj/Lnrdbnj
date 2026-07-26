@@ -34,8 +34,7 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 **📌 Quick Facts**
 
-🎓&nbsp; Currently finishing my **Capstone Project**
-<br>
+
 💼&nbsp; Full Stack Developer Intern @ Alpha Centauri Corp
 <br>
 📱&nbsp; Currently developing a mobile app using **React Native**
