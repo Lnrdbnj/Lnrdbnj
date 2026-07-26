@@ -14,9 +14,9 @@
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="58%" align="left" style="background-color:#0d1117; border-radius:10px; padding:20px;">
 
 ### 👨‍💻 About Me
 
@@ -30,13 +30,12 @@ Focus: Sayo
   - Open Source Contribution
   - UI/UX Design
 Developer of: Jishin Alert Mobile Games
-Currently Building: 
-A mobile app using React Native
-
+Currently Building: A mobile app using React Native
+fun_fact: "I debug with console.log and I'm not ashamed"
 ```
 
 </td>
-<td valign="top" width="42%">
+<td valign="top" width="42%" align="left" style="background-color:#0d1117; border-radius:10px; padding:20px;">
 
 ### 📌 Quick Facts
 
