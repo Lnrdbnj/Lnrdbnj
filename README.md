@@ -8,7 +8,7 @@
 
 <a href="https://komarev.com/ghpvc/?username=Lnrdbnj"><img src="https://komarev.com/ghpvc/?username=Lnrdbnj&style=for-the-badge&color=000000&labelColor=000000" /></a>
 <a href="https://github.com/Lnrdbnj?tab="><img src="https://img.shields.io/github//Lnrdbnj?style=for-the-badge&logo=github&color=000000&labelColor=000000&logoColor=white" /></a>
-<a href="https://github.com/Lnrdbnj?tab=repositories"><img src="https://img.shields.io/github/stars/Lnrdbnj?style=for-the-badge&logo=github&color=000000&labelColor=000000&logoColor=white" /></a>
+
 <a href="mailto:lnrdabenoja@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20Work-000000?style=for-the-badge&logo=Handshake&logoColor=white" /></a>
 
 </div>
