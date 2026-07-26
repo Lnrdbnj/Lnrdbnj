@@ -23,7 +23,7 @@
 
 **📌 Quick Facts**
 
--  Full Stack Developer @ **Alpha Centauri**
+-  Full Stack Developer of **staycationhaven-ph.com**
 -  Currently building a web/mobile app
 -  Diving deeper into **AI**
 -  Learning **cloud architecture** fundamentals
